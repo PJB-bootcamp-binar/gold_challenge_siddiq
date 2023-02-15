@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+pandas
+Sastrawi
+plotly
+seaborn
+wordcloud
